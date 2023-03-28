@@ -19,6 +19,24 @@
       "versions": ["5.7.1"]
     },
     {
+      "palettePackage": "@react-buddy/palette-mantine-core",
+      "paletteComponentName": "MantinePalette",
+      "libraryPackage": "@mantine/core",
+      "versions": ["6.0.0"]
+    },
+    {
+      "palettePackage": "@react-buddy/palette-mantine-form",
+      "paletteComponentName": "MantinePalette",
+      "libraryPackage": "@mantine/form",
+      "versions": ["6.0.0"]
+    },
+    {
+      "palettePackage": "@react-buddy/palette-mantine-dates",
+      "paletteComponentName": "MantinePalette",
+      "libraryPackage": "@mantine/dates",
+      "versions": ["6.0.0"]
+    },
+    {
       "palettePackage": "@react-buddy/palette-mui",
       "paletteComponentName": "MUIPalette",
       "libraryPackage": "@mui/material",
